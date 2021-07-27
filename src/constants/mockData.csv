@@ -1,0 +1,424 @@
+Timestamp (UTC),Transaction Description,Currency,Amount,To Currency,To Amount,Native Currency,Native Amount,Native Amount (in USD),Transaction Kind
+2021-07-20 13:49:52,CRO Rewards,CRO,17.30478045,,,USD,1.74,1.74,referral_card_cashback
+2021-07-20 00:59:37,CRO Stake Rewards,CRO,64.3769863,,,USD,6.73,6.73,mco_stake_reward
+2021-07-19 04:48:27,CRO Rewards,CRO,18.96230238,,,USD,2.1,2.1,referral_card_cashback
+2021-07-16 21:18:24,CRO Rewards,CRO,14.24080424,,,USD,1.59,1.59,referral_card_cashback
+2021-07-16 19:32:06,CRO Rewards,CRO,0.53613348,,,USD,0.06,0.06,referral_card_cashback
+2021-07-16 19:31:11,CRO Rewards,CRO,14.29047309,,,USD,1.6,1.6,referral_card_cashback
+2021-07-16 04:54:29,CRO Rewards,CRO,5.28067758,,,USD,0.6,0.6,referral_card_cashback
+2021-07-13 00:58:08,CRO Stake Rewards,CRO,64.3769863,,,USD,7.8,7.8,mco_stake_reward
+2021-07-11 13:02:20,CRO Rewards,CRO,2.93298878,,,USD,0.36,0.36,referral_card_cashback
+2021-07-10 01:32:00,CRO Rewards,CRO,10.07432742,,,USD,1.21,1.21,referral_card_cashback
+2021-07-08 19:00:37,CRO Rewards,CRO,6.42482439,,,USD,0.73,0.73,referral_card_cashback
+2021-07-08 16:02:05,CRO Rewards,CRO,5.92507114,,,USD,0.67,0.67,referral_card_cashback
+2021-07-06 23:40:51,CRO Rewards,CRO,2.40624902,,,USD,0.29,0.29,referral_card_cashback
+2021-07-06 04:20:17,CRO Rewards,CRO,5.21548403,,,USD,0.64,0.64,referral_card_cashback
+2021-07-06 01:05:23,CRO Stake Rewards,CRO,55.18027397,,,USD,6.63,6.63,mco_stake_reward
+2021-07-04 16:16:50,CRO Rewards,CRO,7.78605152,,,USD,0.97,0.97,referral_card_cashback
+2021-07-04 15:58:54,CRO Rewards,CRO,10.32521164,,,USD,1.28,1.28,referral_card_cashback
+2021-07-03 22:29:20,CRO Rewards,CRO,2.68724722,,,USD,0.32,0.32,referral_card_cashback
+2021-07-03 17:36:43,CRO Rewards,CRO,7.75788878,,,USD,0.92,0.92,referral_card_cashback
+2021-07-01 20:37:47,CRO Rewards,CRO,14.1187402,,,USD,1.59,1.59,referral_card_cashback
+2021-06-29 14:42:35,CRO Stake,CRO,-28568.0,,,USD,-3405.94,-3405.94,lockup_upgrade
+2021-06-29 14:39:12,CRO Deposit,CRO,8500.0,,,USD,994.35,994.35,crypto_deposit
+2021-06-28 19:04:36,CRO Rewards,CRO,5.54672399,,,USD,0.6,0.6,referral_card_cashback
+2021-06-23 07:29:04,CRO Rewards,CRO,4.32556119,,,USD,0.4,0.4,referral_card_cashback
+2021-06-22 19:19:40,CRO Rewards,CRO,4.87009174,,,USD,0.44,0.44,referral_card_cashback
+2021-06-22 00:41:36,CRO Rewards,CRO,0.43664451,,,USD,0.04,0.04,referral_card_cashback
+2021-06-22 00:41:36,CRO Rewards,CRO,12.44436846,,,USD,1.14,1.14,referral_card_cashback
+2021-06-21 23:37:03,CRO Rewards,CRO,5.39507221,,,USD,0.5,0.5,referral_card_cashback
+2021-06-21 17:55:31,CRO Rewards,CRO,16.02707251,,,USD,1.51,1.51,referral_card_cashback
+2021-06-21 17:47:38,CRO Rewards,CRO,8.47573548,,,USD,0.8,0.8,referral_card_cashback
+2021-06-21 03:03:39,Card Rebate: Spotify,CRO,95.13866551,,,USD,9.99,9.99,reimbursement
+2021-06-21 00:40:59,CRO Rewards,CRO,4.96093774,,,USD,0.53,0.53,referral_card_cashback
+2021-06-20 18:56:35,CRO Rewards,CRO,4.94152806,,,USD,0.52,0.52,referral_card_cashback
+2021-06-19 06:15:32,CRO Rewards,CRO,13.13279247,,,USD,1.4,1.4,referral_card_cashback
+2021-06-18 20:03:49,CRO Rewards,CRO,8.28534925,,,USD,0.87,0.87,referral_card_cashback
+2021-06-18 15:58:30,CRO Rewards,CRO,3.60168789,,,USD,0.39,0.39,referral_card_cashback
+2021-06-11 15:43:29,CRO Rewards,CRO,12.65194994,,,USD,1.5,1.5,referral_card_cashback
+2021-06-11 06:12:07,CRO Rewards,CRO,2.00728809,,,USD,0.24,0.24,referral_card_cashback
+2021-06-11 04:36:56,CRO Rewards,CRO,3.33007739,,,USD,0.4,0.4,referral_card_cashback
+2021-06-10 16:04:35,CRO Rewards,CRO,1.1721009,,,USD,0.14,0.14,referral_card_cashback
+2021-06-09 14:09:36,CRO Rewards,CRO,3.36329933,,,USD,0.4,0.4,referral_card_cashback
+2021-06-07 17:36:03,CRO Rewards,CRO,9.96680442,,,USD,1.25,1.25,referral_card_cashback
+2021-06-06 16:45:11,CRO Rewards,CRO,2.09035715,,,USD,0.26,0.26,referral_card_cashback
+2021-06-04 06:45:09,CRO Rewards,CRO,-1.56952199,,,USD,-0.2,-0.2,card_cashback_reverted
+2021-06-04 06:45:03,CRO Rewards,CRO,-2.6671351,,,USD,-0.34,-0.34,card_cashback_reverted
+2021-06-03 13:57:29,Convert Dust,CRO,3.337493082849018933,,,USD,0.44,0.44,dust_conversion_credited
+2021-06-03 13:57:29,Convert Dust,ADA,-0.02690411,,,USD,-0.05,-0.05,dust_conversion_debited
+2021-06-03 13:57:29,Convert Dust,BNB,-0.00095889,,,USD,-0.39,-0.39,dust_conversion_debited
+2021-06-03 13:52:55,CRO -> USD,CRO,-4000.0,USD,520.74,USD,-520.74,-520.74,crypto_to_van_sell_order
+2021-06-03 13:49:00,ADA -> CRO,ADA,-386.1,CRO,5220.78371144,USD,691.54,691.54,crypto_exchange
+2021-06-03 13:48:47,BNB -> CRO,BNB,-2.002,CRO,6171.28490652,USD,817.19,817.19,crypto_exchange
+2021-06-03 01:10:03,Crypto Earn Withdrawal,BNT,40.0,,,USD,185.07,185.07,crypto_earn_program_withdrawn
+2021-06-03 00:57:49,Crypto Earn,BNT,0.01315068,,,USD,0.06,0.06,crypto_earn_interest_paid
+2021-06-02 09:44:35,CRO Rewards,CRO,1.56952199,,,USD,0.2,0.2,referral_card_cashback
+2021-06-02 09:44:22,CRO Rewards,CRO,2.6671351,,,USD,0.34,0.34,referral_card_cashback
+2021-06-01 18:18:38,CRO Rewards,CRO,7.16020376,,,USD,0.87,0.87,referral_card_cashback
+2021-06-01 16:59:31,CRO Rewards,CRO,5.30503099,,,USD,0.64,0.64,referral_card_cashback
+2021-06-01 09:45:40,CRO Rewards,CRO,1.63721724,,,USD,0.2,0.2,referral_card_cashback
+2021-05-30 15:35:01,Crypto Earn Withdrawal,BNB,2.0,,,USD,636.61,636.61,crypto_earn_program_withdrawn
+2021-05-30 15:35:01,Crypto Earn Withdrawal,ADA,386.0,,,USD,614.78,614.78,crypto_earn_program_withdrawn
+2021-05-30 00:35:12,Crypto Earn,ADA,0.12690411,,,USD,0.17,0.17,crypto_earn_interest_paid
+2021-05-30 00:35:12,Crypto Earn,BNB,0.00065753,,,USD,0.19,0.19,crypto_earn_interest_paid
+2021-05-28 23:12:28,CRO Rewards,CRO,25.31536996,,,USD,2.86,2.86,referral_card_cashback
+2021-05-28 20:01:26,CRO Rewards,CRO,1.98396343,,,USD,0.23,0.23,referral_card_cashback
+2021-05-28 12:15:04,CRO Rewards,CRO,8.85473229,,,USD,1.05,1.05,referral_card_cashback
+2021-05-28 00:17:57,Crypto Earn,BNT,0.01534247,,,USD,0.07,0.07,crypto_earn_interest_paid
+2021-05-27 04:53:09,CRO Rewards,CRO,3.12974741,,,USD,0.4,0.4,referral_card_cashback
+2021-05-25 14:00:47,CRO Rewards,CRO,8.18406527,,,USD,1.0,1.0,referral_card_cashback
+2021-05-24 16:33:48,CRO Rewards,CRO,4.57665383,,,USD,0.53,0.53,referral_card_cashback
+2021-05-24 13:26:30,Convert Dust,CRO,6.852548563083188453,,,USD,0.77,0.77,dust_conversion_credited
+2021-05-24 13:26:30,Convert Dust,ADA,-0.44416437,,,USD,-0.64,-0.64,dust_conversion_debited
+2021-05-24 13:26:30,Convert Dust,ETH,-0.00000424,,,USD,-0.01,-0.01,dust_conversion_debited
+2021-05-24 13:26:30,Convert Dust,BNT,-0.03068494,,,USD,-0.13,-0.13,dust_conversion_debited
+2021-05-24 13:01:21,Buy CRO,CRO,8607.0,,,USD,1000.98,1000.98,crypto_purchase
+2021-05-24 12:57:14,ETH -> CRO,ETH,-0.3776,CRO,7874.6397394,USD,907.0,907.0,crypto_exchange
+2021-05-24 12:38:13,CRO Rewards,CRO,2.61103929,,,USD,0.3,0.3,referral_card_cashback
+2021-05-24 01:05:12,Crypto Earn,ADA,0.14805479,,,USD,0.19,0.19,crypto_earn_interest_paid
+2021-05-24 01:05:11,Crypto Earn,BNB,0.00076712,,,USD,0.2,0.2,crypto_earn_interest_paid
+2021-05-22 18:32:47,CRO Rewards,CRO,1.94272944,,,USD,0.23,0.23,referral_card_cashback
+2021-05-22 18:28:40,CRO Rewards,CRO,5.87214004,,,USD,0.7,0.7,referral_card_cashback
+2021-05-22 17:18:56,CRO Rewards,CRO,4.06814782,,,USD,0.49,0.49,referral_card_cashback
+2021-05-22 16:40:58,CRO Rewards,CRO,5.40052588,,,USD,0.65,0.65,referral_card_cashback
+2021-05-21 22:07:20,CRO Rewards,CRO,7.98679184,,,USD,0.94,0.94,referral_card_cashback
+2021-05-21 21:48:50,CRO Rewards,CRO,2.37135367,,,USD,0.28,0.28,referral_card_cashback
+2021-05-21 03:09:31,Crypto Earn,BNT,0.01534247,,,USD,0.08,0.08,crypto_earn_interest_paid
+2021-05-21 03:03:35,Card Rebate: Spotify,CRO,75.43911045,,,USD,9.99,9.99,reimbursement
+2021-05-20 13:59:18,CRO Rewards,CRO,14.91410956,,,USD,1.96,1.96,referral_card_cashback
+2021-05-19 19:56:16,CRO Rewards,CRO,72.04420898,,,USD,9.26,9.26,referral_card_cashback
+2021-05-19 05:24:07,CRO Rewards,CRO,10.4139017,,,USD,1.4,1.4,referral_card_cashback
+2021-05-18 15:50:08,Crypto Earn Withdrawal,BTC,0.021,,,USD,902.69,902.69,crypto_earn_program_withdrawn
+2021-05-18 15:50:07,Crypto Earn Withdrawal,LTC,1.567,,,USD,467.74,467.74,crypto_earn_program_withdrawn
+2021-05-18 15:50:07,Crypto Earn Withdrawal,XLM,1531.1,,,USD,983.61,983.61,crypto_earn_program_withdrawn
+2021-05-18 15:50:03,Crypto Earn Withdrawal,ETH,0.377,,,USD,1261.29,1261.29,crypto_earn_program_withdrawn
+2021-05-18 09:17:34,CRO Rewards,CRO,-0.16877855,,,USD,-0.04,-0.04,card_cashback_reverted
+2021-05-18 00:56:48,Crypto Earn,LTC,0.00051518,,,USD,0.15,0.15,crypto_earn_interest_paid
+2021-05-18 00:56:47,Crypto Earn,BTC,0.00001553,,,USD,0.68,0.68,crypto_earn_interest_paid
+2021-05-18 00:56:47,Crypto Earn,ETH,0.00027888,,,USD,0.92,0.92,crypto_earn_interest_paid
+2021-05-18 00:56:46,Crypto Earn,XLM,0.50337534,,,USD,0.32,0.32,crypto_earn_interest_paid
+2021-05-17 22:44:48,CRO Rewards,CRO,5.84890877,,,USD,0.83,0.83,referral_card_cashback
+2021-05-17 00:20:07,Crypto Earn,ADA,0.14805479,,,USD,0.33,0.33,crypto_earn_interest_paid
+2021-05-17 00:20:06,Crypto Earn,BNB,0.00076712,,,USD,0.43,0.43,crypto_earn_interest_paid
+2021-05-15 00:28:08,CRO Rewards,CRO,1.09825135,,,USD,0.18,0.18,referral_card_cashback
+2021-05-14 23:42:15,CRO Rewards,CRO,2.96657046,,,USD,0.49,0.49,referral_card_cashback
+2021-05-14 22:22:29,CRO Rewards,CRO,10.68922135,,,USD,1.74,1.74,referral_card_cashback
+2021-05-14 00:22:35,Crypto Earn,BNT,0.01534247,,,USD,0.11,0.11,crypto_earn_interest_paid
+2021-05-13 18:39:58,CRO Rewards,CRO,0.58636471,,,USD,0.09,0.09,referral_card_cashback
+2021-05-13 18:37:14,CRO Rewards,CRO,4.68625576,,,USD,0.72,0.72,referral_card_cashback
+2021-05-12 00:51:31,Crypto Earn,LTC,0.00060104,,,USD,0.23,0.23,crypto_earn_interest_paid
+2021-05-12 00:51:30,Crypto Earn,BTC,0.00001812,,,USD,1.03,1.03,crypto_earn_interest_paid
+2021-05-12 00:51:29,Crypto Earn,ETH,0.00032536,,,USD,1.35,1.35,crypto_earn_interest_paid
+2021-05-12 00:51:29,Crypto Earn,XLM,0.58727123,,,USD,0.42,0.42,crypto_earn_interest_paid
+2021-05-11 14:01:13,CRO Rewards,CRO,0.82338182,,,USD,0.14,0.14,referral_card_cashback
+2021-05-11 13:58:45,Buy SHIB,SHIB,6208791.0,,,USD,198.84,198.84,crypto_purchase
+2021-05-11 13:46:43,DOGE -> BTC,DOGE,-185.3,BTC,0.00162024,USD,89.53,89.53,crypto_exchange
+2021-05-10 21:42:38,Crypto Earn,ADA,0.14805479,,,USD,0.25,0.25,crypto_earn_interest_paid
+2021-05-10 21:42:36,Crypto Earn,BNB,0.00076712,,,USD,0.49,0.49,crypto_earn_interest_paid
+2021-05-09 17:29:39,CRO Rewards,CRO,3.1167532,,,USD,0.55,0.55,referral_card_cashback
+2021-05-07 13:27:47,Convert Dust,CRO,15.410387899178675954,,,USD,2.88,2.88,dust_conversion_credited
+2021-05-07 13:27:47,Convert Dust,LTC,-0.00060104,,,USD,-0.21,-0.21,dust_conversion_debited
+2021-05-07 13:27:47,Convert Dust,ETH,-0.00032536,,,USD,-1.13,-1.13,dust_conversion_debited
+2021-05-07 13:27:47,Convert Dust,BTC,-0.00001875,,,USD,-1.07,-1.07,dust_conversion_debited
+2021-05-07 13:27:47,Convert Dust,XLM,-0.58727123,,,USD,-0.39,-0.39,dust_conversion_debited
+2021-05-07 13:27:47,Convert Dust,BNT,-0.01534247,,,USD,-0.12,-0.12,dust_conversion_debited
+2021-05-07 09:19:04,CRO Rewards,CRO,-7.67604524,,,USD,-1.6,-1.6,card_cashback_reverted
+2021-05-07 00:12:21,Crypto Earn,BNT,0.01534247,,,USD,0.11,0.11,crypto_earn_interest_paid
+2021-05-05 17:55:51,CRO Rewards,CRO,6.66322486,,,USD,1.21,1.21,referral_card_cashback
+2021-05-05 17:48:41,CRO Rewards,CRO,5.94076228,,,USD,1.08,1.08,referral_card_cashback
+2021-05-05 00:28:08,Crypto Earn,LTC,0.00060104,,,USD,0.19,0.19,crypto_earn_interest_paid
+2021-05-05 00:28:07,Crypto Earn,BTC,0.00001812,,,USD,0.97,0.97,crypto_earn_interest_paid
+2021-05-05 00:28:06,Crypto Earn,ETH,0.00032536,,,USD,1.06,1.06,crypto_earn_interest_paid
+2021-05-05 00:28:06,Crypto Earn,XLM,0.58727123,,,USD,0.3,0.3,crypto_earn_interest_paid
+2021-05-03 15:06:48,BTC -> DOGE,BTC,-0.00129393,DOGE,185.3,USD,73.05,73.05,crypto_exchange
+2021-05-03 15:03:26,CRO -> BTC,CRO,-400.29,BTC,0.00129456,USD,74.76,74.76,crypto_exchange
+2021-05-03 14:20:56,Convert Dust,CRO,4.250634529378249395,,,USD,0.8,0.8,dust_conversion_credited
+2021-05-03 14:20:56,Convert Dust,BNT,-0.01534247,,,USD,-0.11,-0.11,dust_conversion_debited
+2021-05-03 14:20:56,Convert Dust,ADA,-0.14805479,,,USD,-0.2,-0.2,dust_conversion_debited
+2021-05-03 14:20:56,Convert Dust,BNB,-0.00076712,,,USD,-0.5,-0.5,dust_conversion_debited
+2021-05-03 00:20:22,Crypto Earn,ADA,0.14805479,,,USD,0.2,0.2,crypto_earn_interest_paid
+2021-05-03 00:20:21,Crypto Earn,BNB,0.00076712,,,USD,0.48,0.48,crypto_earn_interest_paid
+2021-05-02 09:18:06,CRO Rewards,CRO,-0.09413418,,,USD,-0.02,-0.02,card_cashback_reverted
+2021-05-01 08:56:42,CRO Rewards,CRO,1.02846702,,,USD,0.2,0.2,referral_card_cashback
+2021-04-30 20:49:40,CRO Rewards,CRO,0.20327596,,,USD,0.04,0.04,referral_card_cashback
+2021-04-30 20:49:35,CRO Rewards,CRO,5.28517484,,,USD,1.04,1.04,referral_card_cashback
+2021-04-30 00:50:43,Crypto Earn,BNT,0.01534247,,,USD,0.1,0.1,crypto_earn_interest_paid
+2021-04-29 14:21:43,Convert Dust,CRO,10.570443759901442139,,,USD,1.95,1.95,dust_conversion_credited
+2021-04-29 14:21:43,Convert Dust,ADA,-0.44416437,,,USD,-0.6,-0.6,dust_conversion_debited
+2021-04-29 14:21:43,Convert Dust,BNB,-0.00230136,,,USD,-1.38,-1.38,dust_conversion_debited
+2021-04-29 14:21:34,Convert Dust,CRO,25.333139729535479177,,,USD,4.68,4.68,dust_conversion_credited
+2021-04-29 14:21:34,Convert Dust,BTC,-0.00005436,,,USD,-2.91,-2.91,dust_conversion_debited
+2021-04-29 14:21:34,Convert Dust,LTC,-0.00180312,,,USD,-0.46,-0.46,dust_conversion_debited
+2021-04-29 14:21:34,Convert Dust,BNT,-0.04602741,,,USD,-0.31,-0.31,dust_conversion_debited
+2021-04-29 14:21:34,Convert Dust,ETH,-0.000070821,,,USD,-0.19,-0.19,dust_conversion_debited
+2021-04-29 14:21:34,Convert Dust,XLM,-1.76181369,,,USD,-0.87,-0.87,dust_conversion_debited
+2021-04-29 14:20:02,ETH -> USD,ETH,-0.1022,USD,280.1,USD,-280.1,-280.1,crypto_to_van_sell_order
+2021-04-28 00:11:48,Crypto Earn,LTC,0.00060104,,,USD,0.16,0.16,crypto_earn_interest_paid
+2021-04-28 00:11:46,Crypto Earn,BTC,0.00001812,,,USD,0.99,0.99,crypto_earn_interest_paid
+2021-04-28 00:11:45,Crypto Earn,ETH,0.00032536,,,USD,0.87,0.87,crypto_earn_interest_paid
+2021-04-28 00:11:45,Crypto Earn,XLM,0.58727123,,,USD,0.3,0.3,crypto_earn_interest_paid
+2021-04-27 04:49:08,CRO Rewards,CRO,2.16554733,,,USD,0.4,0.4,referral_card_cashback
+2021-04-27 01:49:52,CRO Rewards,CRO,2.14916826,,,USD,0.4,0.4,referral_card_cashback
+2021-04-26 14:28:00,ETH Deposit,ETH,0.101294741,,,USD,249.66,249.66,crypto_deposit
+2021-04-26 13:45:18,Withdraw CRO,CRO,-1.0,,,USD,-0.19,-0.19,crypto_withdrawal
+2021-04-26 08:05:23,CRO Rewards,CRO,5.23435585,,,USD,0.96,0.96,referral_card_cashback
+2021-04-26 00:06:31,Crypto Earn,ADA,0.14805479,,,USD,0.16,0.16,crypto_earn_interest_paid
+2021-04-26 00:06:31,Crypto Earn,BNB,0.00076712,,,USD,0.38,0.38,crypto_earn_interest_paid
+2021-04-25 08:14:36,CRO Rewards,CRO,2.3442018,,,USD,0.4,0.4,referral_card_cashback
+2021-04-24 22:59:57,CRO Rewards,CRO,1.18749566,,,USD,0.2,0.2,referral_card_cashback
+2021-04-24 12:06:59,CRO Rewards,CRO,0.75768976,,,USD,0.13,0.13,referral_card_cashback
+2021-04-23 18:13:05,CRO Rewards,CRO,14.05692738,,,USD,2.4,2.4,referral_card_cashback
+2021-04-23 01:01:23,Crypto Earn,BNT,0.01534247,,,USD,0.1,0.1,crypto_earn_interest_paid
+2021-04-22 16:42:27,CRO Rewards,CRO,4.25855165,,,USD,0.82,0.82,referral_card_cashback
+2021-04-21 19:41:41,CRO Rewards,CRO,2.0812237,,,USD,0.42,0.42,referral_card_cashback
+2021-04-21 18:53:42,CRO Rewards,CRO,6.07877598,,,USD,1.22,1.22,referral_card_cashback
+2021-04-21 03:03:39,Card Rebate: Spotify,CRO,49.92628564,,,USD,9.99,9.99,reimbursement
+2021-04-21 00:19:44,Crypto Earn,LTC,0.00060104,,,USD,0.16,0.16,crypto_earn_interest_paid
+2021-04-21 00:19:43,Crypto Earn,BTC,0.00001812,,,USD,1.02,1.02,crypto_earn_interest_paid
+2021-04-21 00:19:42,Crypto Earn,ETH,0.00032536,,,USD,0.76,0.76,crypto_earn_interest_paid
+2021-04-21 00:19:42,Crypto Earn,XLM,0.58727123,,,USD,0.31,0.31,crypto_earn_interest_paid
+2021-04-20 21:58:09,CRO Rewards,CRO,15.58362231,,,USD,3.09,3.09,referral_card_cashback
+2021-04-20 15:53:48,CRO Rewards,CRO,1.25492443,,,USD,0.24,0.24,referral_card_cashback
+2021-04-20 14:31:01,CRO Rewards,CRO,7.24798884,,,USD,1.4,1.4,referral_card_cashback
+2021-04-19 23:04:34,CRO Rewards,CRO,4.39062498,,,USD,0.86,0.86,referral_card_cashback
+2021-04-19 22:19:43,CRO Rewards,CRO,9.91997007,,,USD,1.96,1.96,referral_card_cashback
+2021-04-19 18:25:19,CRO Rewards,CRO,11.67643444,,,USD,2.3,2.3,referral_card_cashback
+2021-04-19 15:48:09,CRO Rewards,CRO,0.46789067,,,USD,0.09,0.09,referral_card_cashback
+2021-04-19 04:31:56,CRO Rewards,CRO,1.89795346,,,USD,0.4,0.4,referral_card_cashback
+2021-04-19 03:51:34,Crypto Earn,ADA,0.14805479,,,USD,0.19,0.19,crypto_earn_interest_paid
+2021-04-19 03:51:33,Crypto Earn,BNB,0.00076712,,,USD,0.41,0.41,crypto_earn_interest_paid
+2021-04-19 00:15:59,CRO Rewards,CRO,1.55394939,,,USD,0.32,0.32,referral_card_cashback
+2021-04-18 23:10:34,CRO Rewards,CRO,2.9644573,,,USD,0.62,0.62,referral_card_cashback
+2021-04-18 19:05:21,CRO Rewards,CRO,3.35289428,,,USD,0.68,0.68,referral_card_cashback
+2021-04-18 14:47:19,CRO Rewards,CRO,5.00013882,,,USD,1.0,1.0,referral_card_cashback
+2021-04-18 12:37:55,CRO Rewards,CRO,8.00135676,,,USD,1.56,1.56,referral_card_cashback
+2021-04-17 20:19:02,CRO Rewards,CRO,1.51643346,,,USD,0.36,0.36,referral_card_cashback
+2021-04-17 16:25:07,CRO Rewards,CRO,27.42944175,,,USD,6.52,6.52,referral_card_cashback
+2021-04-17 15:46:11,CRO Rewards,CRO,0.16877855,,,USD,0.04,0.04,referral_card_cashback
+2021-04-17 10:40:22,CRO Rewards,CRO,2.9464495,,,USD,0.73,0.73,referral_card_cashback
+2021-04-16 01:42:50,Crypto Earn,BNT,0.01534247,,,USD,0.12,0.12,crypto_earn_interest_paid
+2021-04-15 22:51:36,CRO Rewards,CRO,0.65001805,,,USD,0.16,0.16,referral_card_cashback
+2021-04-14 00:09:25,Crypto Earn,LTC,0.00060104,,,USD,0.16,0.16,crypto_earn_interest_paid
+2021-04-14 00:09:24,Crypto Earn,BTC,0.00001812,,,USD,1.15,1.15,crypto_earn_interest_paid
+2021-04-14 00:09:23,Crypto Earn,ETH,0.00032536,,,USD,0.74,0.74,crypto_earn_interest_paid
+2021-04-14 00:09:23,Crypto Earn,XLM,0.58727123,,,USD,0.39,0.39,crypto_earn_interest_paid
+2021-04-13 08:18:01,CRO Rewards,CRO,1.03831753,,,USD,0.23,0.23,referral_card_cashback
+2021-04-12 15:34:59,CRO Rewards,CRO,0.68385985,,,USD,0.14,0.14,referral_card_cashback
+2021-04-12 07:48:12,CRO Rewards,CRO,5.90530062,,,USD,1.26,1.26,referral_card_cashback
+2021-04-12 01:20:51,Crypto Earn,ADA,0.14805479,,,USD,0.19,0.19,crypto_earn_interest_paid
+2021-04-12 01:20:51,Crypto Earn,BNB,0.00076712,,,USD,0.39,0.39,crypto_earn_interest_paid
+2021-04-11 09:17:13,CRO Rewards,CRO,-8.87347945,,,USD,-1.78,-1.78,card_cashback_reverted
+2021-04-10 22:15:48,CRO Rewards,CRO,11.50229396,,,USD,2.46,2.46,referral_card_cashback
+2021-04-10 20:44:09,CRO Rewards,CRO,2.93055377,,,USD,0.63,0.63,referral_card_cashback
+2021-04-10 19:11:28,CRO Rewards,CRO,0.50717681,,,USD,0.11,0.11,referral_card_cashback
+2021-04-10 13:57:17,CRO Rewards,CRO,0.64370719,,,USD,0.14,0.14,referral_card_cashback
+2021-04-09 01:15:54,Crypto Earn,BNT,0.01534247,,,USD,0.11,0.11,crypto_earn_interest_paid
+2021-04-08 19:16:34,CRO Rewards,CRO,7.63505596,,,USD,1.55,1.55,referral_card_cashback
+2021-04-08 19:16:33,CRO Rewards,CRO,0.1970337,,,USD,0.04,0.04,referral_card_cashback
+2021-04-08 15:14:14,CRO Rewards,CRO,8.87347945,,,USD,1.78,1.78,referral_card_cashback
+2021-04-08 13:03:42,CRO Rewards,CRO,3.77731627,,,USD,0.76,0.76,referral_card_cashback
+2021-04-08 03:07:18,Convert Dust,CRO,6.242558383825356609,,,USD,1.19,1.19,dust_conversion_credited
+2021-04-08 03:07:18,Convert Dust,XLM,-1.17454246,,,USD,-0.56,-0.56,dust_conversion_debited
+2021-04-08 03:07:18,Convert Dust,ETH,-0.00032536,,,USD,-0.64,-0.64,dust_conversion_debited
+2021-04-08 03:07:00,Convert Dust,CRO,20.110288407741043952,,,USD,3.82,3.82,dust_conversion_credited
+2021-04-08 03:07:00,Convert Dust,ADA,-0.29610958,,,USD,-0.35,-0.35,dust_conversion_debited
+2021-04-08 03:07:00,Convert Dust,BNT,-0.092054803,,,USD,-0.65,-0.65,dust_conversion_debited
+2021-04-08 03:07:00,Convert Dust,BNB,-0.00153424,,,USD,-0.59,-0.59,dust_conversion_debited
+2021-04-08 03:07:00,Convert Dust,LTC,-0.00120208,,,USD,-0.26,-0.26,dust_conversion_debited
+2021-04-08 03:07:00,Convert Dust,BTC,-0.00003624,,,USD,-2.03,-2.03,dust_conversion_debited
+2021-04-07 00:18:00,Crypto Earn,LTC,0.00060104,,,USD,0.14,0.14,crypto_earn_interest_paid
+2021-04-07 00:18:00,Crypto Earn,BTC,0.00001812,,,USD,1.05,1.05,crypto_earn_interest_paid
+2021-04-07 00:17:59,Crypto Earn,ETH,0.00032536,,,USD,0.68,0.68,crypto_earn_interest_paid
+2021-04-07 00:17:59,Crypto Earn,XLM,0.58727123,,,USD,0.32,0.32,crypto_earn_interest_paid
+2021-04-06 15:13:12,CRO Rewards,CRO,7.67604524,,,USD,1.6,1.6,referral_card_cashback
+2021-04-05 09:16:18,CRO Rewards,CRO,-4.4608179,,,USD,-0.95,-0.95,card_cashback_reverted
+2021-04-05 07:57:53,CRO Rewards,CRO,6.00433537,,,USD,1.26,1.26,referral_card_cashback
+2021-04-05 01:47:30,CRO Rewards,CRO,0.09338287,,,USD,0.02,0.02,referral_card_cashback
+2021-04-05 01:00:18,Crypto Earn,ADA,0.14805479,,,USD,0.17,0.17,crypto_earn_interest_paid
+2021-04-05 01:00:18,Crypto Earn,BNB,0.00076712,,,USD,0.26,0.26,crypto_earn_interest_paid
+2021-04-04 14:18:37,CRO Rewards,CRO,0.28133737,,,USD,0.06,0.06,referral_card_cashback
+2021-04-04 13:51:10,CRO Rewards,CRO,0.46978158,,,USD,0.1,0.1,referral_card_cashback
+2021-04-03 17:26:58,CRO Rewards,CRO,7.77192846,,,USD,1.67,1.67,referral_card_cashback
+2021-04-03 14:02:15,CRO Rewards,CRO,1.73676697,,,USD,0.38,0.38,referral_card_cashback
+2021-04-02 17:15:16,Withdraw ETH,ETH,-0.1,,,USD,-203.29,-203.29,crypto_withdrawal
+2021-04-02 17:14:42,Buy ETH,ETH,0.1,,,USD,207.04,207.04,crypto_purchase
+2021-04-02 16:51:18,CRO Rewards,CRO,1.70358897,,,USD,0.37,0.37,referral_card_cashback
+2021-04-02 13:34:17,Withdraw ETH,ETH,-0.02690144,,,USD,-53.25,-53.25,crypto_withdrawal
+2021-04-02 13:33:09,Buy ETH,ETH,0.0131,,,USD,26.32,26.32,crypto_purchase
+2021-04-02 13:32:13,Buy ETH,ETH,0.0131,,,USD,26.33,26.33,crypto_purchase
+2021-04-02 13:28:23,CRO Rewards,CRO,4.4608179,,,USD,0.95,0.95,referral_card_cashback
+2021-04-02 11:42:39,CRO Rewards,CRO,3.36810856,,,USD,0.72,0.72,referral_card_cashback
+2021-04-02 00:36:43,Crypto Earn,BNT,0.01534247,,,USD,0.11,0.11,crypto_earn_interest_paid
+2021-04-01 14:04:38,CRO Rewards,CRO,0.09413418,,,USD,0.02,0.02,referral_card_cashback
+2021-04-01 08:55:34,CRO Rewards,CRO,0.9347064,,,USD,0.2,0.2,referral_card_cashback
+2021-03-31 00:37:15,Crypto Earn,LTC,0.00060104,,,USD,0.12,0.12,crypto_earn_interest_paid
+2021-03-31 00:37:15,Crypto Earn,BTC,0.00001812,,,USD,1.06,1.06,crypto_earn_interest_paid
+2021-03-31 00:37:14,Crypto Earn,ETH,0.00032536,,,USD,0.6,0.6,crypto_earn_interest_paid
+2021-03-31 00:37:14,Crypto Earn,XLM,0.58727123,,,USD,0.23,0.23,crypto_earn_interest_paid
+2021-03-30 18:19:20,CRO Rewards,CRO,0.18371419,,,USD,0.04,0.04,referral_card_cashback
+2021-03-30 18:19:19,CRO Rewards,CRO,3.99578354,,,USD,0.87,0.87,referral_card_cashback
+2021-03-29 20:51:54,CRO Rewards,CRO,0.70458566,,,USD,0.15,0.15,referral_card_cashback
+2021-03-29 17:52:33,CRO Rewards,CRO,1.15678242,,,USD,0.25,0.25,referral_card_cashback
+2021-03-29 17:19:03,CRO Rewards,CRO,1.43107281,,,USD,0.31,0.31,referral_card_cashback
+2021-03-29 17:05:18,CRO Rewards,CRO,6.4123565,,,USD,1.38,1.38,referral_card_cashback
+2021-03-29 10:01:35,Competition Reward,BNT,0.061369863,,,USD,0.44,0.44,campaign_reward
+2021-03-29 07:50:13,CRO Rewards,CRO,6.18501395,,,USD,1.26,1.26,referral_card_cashback
+2021-03-29 00:31:57,Crypto Earn,ADA,0.14805479,,,USD,0.17,0.17,crypto_earn_interest_paid
+2021-03-29 00:31:56,Crypto Earn,BNB,0.00076712,,,USD,0.21,0.21,crypto_earn_interest_paid
+2021-03-27 20:09:00,CRO Rewards,CRO,0.49233578,,,USD,0.1,0.1,referral_card_cashback
+2021-03-27 18:42:26,CRO Rewards,CRO,9.20211234,,,USD,1.87,1.87,referral_card_cashback
+2021-03-26 23:17:05,CRO Rewards,CRO,16.55036064,,,USD,3.43,3.43,referral_card_cashback
+2021-03-26 02:25:15,CRO Rewards,CRO,1.58967508,,,USD,0.32,0.32,referral_card_cashback
+2021-03-26 00:31:22,Crypto Earn,BNT,0.01534247,,,USD,0.1,0.1,crypto_earn_interest_paid
+2021-03-25 02:23:31,Convert Dust,CRO,1.039005961447375372,,,USD,0.2,0.2,dust_conversion_credited
+2021-03-25 02:23:31,Convert Dust,USDC,-0.000202,,,USD,0.0,0.0,dust_conversion_debited
+2021-03-25 02:23:31,Convert Dust,LTC,-0.00120208,,,USD,-0.21,-0.21,dust_conversion_debited
+2021-03-25 02:23:16,Convert Dust,CRO,18.202316718876896961,,,USD,3.59,3.59,dust_conversion_credited
+2021-03-25 02:23:16,Convert Dust,ADA,-0.14805479,,,USD,-0.16,-0.16,dust_conversion_debited
+2021-03-25 02:23:16,Convert Dust,XLM,-1.17454246,,,USD,-0.41,-0.41,dust_conversion_debited
+2021-03-25 02:23:16,Convert Dust,BNB,-0.00076712,,,USD,-0.18,-0.18,dust_conversion_debited
+2021-03-25 02:23:16,Convert Dust,BTC,-0.00005436,,,USD,-2.82,-2.82,dust_conversion_debited
+2021-03-25 02:23:16,Convert Dust,BNT,-0.01534247,,,USD,-0.1,-0.1,dust_conversion_debited
+2021-03-25 02:06:02,Withdraw CRO,CRO,-8546.96040313,,,USD,-1704.78,-1704.78,crypto_withdrawal
+2021-03-25 01:55:22,CRO Rewards,CRO,74.31918401,,,USD,15.29,15.29,referral_card_cashback
+2021-03-24 00:57:25,Crypto Earn,LTC,0.00060104,,,USD,0.11,0.11,crypto_earn_interest_paid
+2021-03-24 00:57:25,Crypto Earn,BTC,0.00001812,,,USD,0.96,0.96,crypto_earn_interest_paid
+2021-03-24 00:57:24,Crypto Earn,ETH,0.00032536,,,USD,0.53,0.53,crypto_earn_interest_paid
+2021-03-24 00:57:23,Crypto Earn,XLM,0.58727123,,,USD,0.23,0.23,crypto_earn_interest_paid
+2021-03-23 20:34:02,CRO Rewards,CRO,0.43426602,,,USD,0.09,0.09,referral_card_cashback
+2021-03-23 12:00:45,USDC -> CRO,USDC,-822.499727,CRO,4106.59,USD,800.51,800.51,crypto_exchange
+2021-03-23 11:59:51,LINK -> CRO,LINK,-3.069,CRO,413.98727711,USD,82.09,82.09,crypto_exchange
+2021-03-23 11:59:27,ENJ -> USDC,ENJ,-400.0,USDC,822.499929,USD,824.15,824.15,crypto_exchange
+2021-03-22 07:52:08,CRO Rewards,CRO,5.68177873,,,USD,1.26,1.26,referral_card_cashback
+2021-03-22 01:41:34,Crypto Earn,ADA,0.14805479,,,USD,0.17,0.17,crypto_earn_interest_paid
+2021-03-22 01:41:34,Crypto Earn,BNB,0.00076712,,,USD,0.2,0.2,crypto_earn_interest_paid
+2021-03-21 03:03:38,Card Rebate: Spotify,CRO,47.2385389,,,USD,9.99,9.99,reimbursement
+2021-03-20 17:47:41,ETH -> CRO,ETH,-0.2506,CRO,2056.23887161,USD,459.36,459.36,crypto_exchange
+2021-03-20 17:47:12,CELR -> CRO,CELR,-3000.0,CRO,844.22433059,USD,189.11,189.11,crypto_exchange
+2021-03-20 17:37:29,CRO Rewards,CRO,4.58625808,,,USD,1.03,1.03,referral_card_cashback
+2021-03-19 22:42:27,CRO Rewards,CRO,3.42800575,,,USD,0.83,0.83,referral_card_cashback
+2021-03-19 22:18:57,CRO Rewards,CRO,0.33082338,,,USD,0.08,0.08,referral_card_cashback
+2021-03-19 19:45:10,CRO -> ETH,CRO,-1949.81027814,ETH,0.25,USD,452.93,452.93,crypto_exchange
+2021-03-19 19:41:08,ONG -> CRO,ONG,-560.0,CRO,1917.34197217,USD,453.29,453.29,crypto_exchange
+2021-03-19 19:15:02,CRO -> ONG,CRO,-1004.12929313,ONG,280.0,USD,226.54,226.54,crypto_exchange
+2021-03-19 19:14:32,UNI -> CRO,UNI,-7.0,CRO,991.96343816,USD,232.91,232.91,crypto_exchange
+2021-03-19 19:12:44,CRO -> ONG,CRO,-1004.0437771,ONG,280.0,USD,226.51,226.51,crypto_exchange
+2021-03-19 19:12:12,USDC -> CRO,USDC,-236.7743,CRO,1001.1,USD,231.75,231.75,crypto_exchange
+2021-03-19 19:10:20,ONE -> USDC,ONE,-2000.0,USDC,236.7743,USD,236.54,236.54,crypto_exchange
+2021-03-19 05:58:39,CRO Rewards,CRO,6.20589474,,,USD,1.4,1.4,referral_card_cashback
+2021-03-19 01:01:22,Crypto Earn,BNT,0.01534247,,,USD,0.12,0.12,crypto_earn_interest_paid
+2021-03-18 05:13:50,CRO Rewards,CRO,1.31753705,,,USD,0.27,0.27,referral_card_cashback
+2021-03-17 18:21:42,CRO Rewards,CRO,5.59568036,,,USD,1.07,1.07,referral_card_cashback
+2021-03-17 09:16:45,CRO Rewards,CRO,-4.59186587,,,USD,-0.86,-0.86,card_cashback_reverted
+2021-03-17 00:06:40,Crypto Earn,LTC,0.00060104,,,USD,0.12,0.12,crypto_earn_interest_paid
+2021-03-17 00:06:40,Crypto Earn,BTC,0.00001812,,,USD,1.03,1.03,crypto_earn_interest_paid
+2021-03-17 00:06:39,Crypto Earn,ETH,0.00032536,,,USD,0.58,0.58,crypto_earn_interest_paid
+2021-03-17 00:06:38,Crypto Earn,XLM,0.58727123,,,USD,0.23,0.23,crypto_earn_interest_paid
+2021-03-16 21:22:09,CRO Rewards,CRO,0.52489767,,,USD,0.1,0.1,referral_card_cashback
+2021-03-16 20:24:11,CRO Rewards,CRO,0.20973713,,,USD,0.04,0.04,referral_card_cashback
+2021-03-16 20:24:10,CRO Rewards,CRO,4.35204535,,,USD,0.83,0.83,referral_card_cashback
+2021-03-15 14:40:41,Convert Dust,CRO,6.700044006811120493,,,USD,1.15,1.15,dust_conversion_credited
+2021-03-15 14:40:41,Convert Dust,XLM,-0.58727123,,,USD,-0.22,-0.22,dust_conversion_debited
+2021-03-15 14:40:41,Convert Dust,LTC,-0.00060104,,,USD,-0.12,-0.12,dust_conversion_debited
+2021-03-15 14:40:41,Convert Dust,BNB,-0.00153424,,,USD,-0.39,-0.39,dust_conversion_debited
+2021-03-15 14:40:41,Convert Dust,BNT,-0.01534247,,,USD,-0.12,-0.12,dust_conversion_debited
+2021-03-15 14:40:41,Convert Dust,ADA,-0.29610958,,,USD,-0.31,-0.31,dust_conversion_debited
+2021-03-15 14:36:55,Buy CELR,CELR,3000.0,,,USD,188.88,188.88,crypto_purchase
+2021-03-15 14:36:23,Buy ONE,ONE,2000.0,,,USD,191.59,191.59,crypto_purchase
+2021-03-15 14:28:02,Buy ENJ,ENJ,400.0,,,USD,1123.73,1123.73,crypto_purchase
+2021-03-15 08:13:31,CRO Rewards,CRO,7.05811022,,,USD,1.26,1.26,referral_card_cashback
+2021-03-15 06:24:42,CRO Rewards,CRO,4.33685947,,,USD,0.8,0.8,referral_card_cashback
+2021-03-15 02:06:17,Crypto Earn,ADA,0.14805479,,,USD,0.16,0.16,crypto_earn_interest_paid
+2021-03-15 02:06:17,Crypto Earn,BNB,0.00076712,,,USD,0.2,0.2,crypto_earn_interest_paid
+2021-03-15 01:08:21,CRO Rewards,CRO,2.61770455,,,USD,0.49,0.49,referral_card_cashback
+2021-03-14 21:07:32,CRO Rewards,CRO,4.59186587,,,USD,0.86,0.86,referral_card_cashback
+2021-03-14 09:16:32,CRO Rewards,CRO,-18.84800758,,,USD,-3.53,-3.53,card_cashback_reverted
+2021-03-14 05:47:20,CRO Rewards,CRO,1.07943983,,,USD,0.21,0.21,referral_card_cashback
+2021-03-14 04:05:30,CRO Rewards,CRO,1.43701939,,,USD,0.28,0.28,referral_card_cashback
+2021-03-14 03:10:00,CRO Rewards,CRO,0.97160183,,,USD,0.19,0.19,referral_card_cashback
+2021-03-13 23:09:07,CRO Rewards,CRO,4.346249,,,USD,0.86,0.86,referral_card_cashback
+2021-03-13 22:59:51,CRO Rewards,CRO,1.01075558,,,USD,0.2,0.2,referral_card_cashback
+2021-03-13 22:26:54,CRO Rewards,CRO,3.0384582,,,USD,0.6,0.6,referral_card_cashback
+2021-03-13 21:30:22,CRO Rewards,CRO,1.46484936,,,USD,0.29,0.29,referral_card_cashback
+2021-03-12 19:58:43,CRO Rewards,CRO,18.84800758,,,USD,3.53,3.53,referral_card_cashback
+2021-03-12 00:14:27,Crypto Earn,BNT,0.01534247,,,USD,0.13,0.13,crypto_earn_interest_paid
+2021-03-10 00:48:01,Crypto Earn,LTC,0.00060104,,,USD,0.12,0.12,crypto_earn_interest_paid
+2021-03-10 00:48:01,Crypto Earn,BTC,0.00001812,,,USD,1.0,1.0,crypto_earn_interest_paid
+2021-03-10 00:48:00,Crypto Earn,ETH,0.00032536,,,USD,0.6,0.6,crypto_earn_interest_paid
+2021-03-10 00:47:59,Crypto Earn,XLM,0.58727123,,,USD,0.25,0.25,crypto_earn_interest_paid
+2021-03-09 16:12:21,CRO Rewards,CRO,4.68734878,,,USD,0.79,0.79,referral_card_cashback
+2021-03-09 03:34:02,CRO Rewards,CRO,8.79504614,,,USD,1.43,1.43,referral_card_cashback
+2021-03-08 09:06:48,CRO Rewards,CRO,6.20035377,,,USD,0.97,0.97,referral_card_cashback
+2021-03-08 00:09:30,Crypto Earn,ADA,0.14805479,,,USD,0.17,0.17,crypto_earn_interest_paid
+2021-03-08 00:09:29,Crypto Earn,BNB,0.00076712,,,USD,0.18,0.18,crypto_earn_interest_paid
+2021-03-07 18:47:08,Convert Dust,CRO,874.536985676610982636,,,USD,135.31,135.31,dust_conversion_credited
+2021-03-07 18:47:08,Convert Dust,BTC,-0.00003624,,,USD,-1.83,-1.83,dust_conversion_debited
+2021-03-07 18:47:08,Convert Dust,LTC,-0.00120208,,,USD,-0.22,-0.22,dust_conversion_debited
+2021-03-07 18:47:08,Convert Dust,XLM,-1.17454246,,,USD,-0.48,-0.48,dust_conversion_debited
+2021-03-07 18:47:08,Convert Dust,ENJ,-100.0,,,USD,-133.47,-133.47,dust_conversion_debited
+2021-03-07 18:47:07,Convert Dust,ETH,-0.00065072,,,USD,-1.08,-1.08,dust_conversion_debited
+2021-03-06 21:34:09,CRO Rewards,CRO,1.82867577,,,USD,0.28,0.28,referral_card_cashback
+2021-03-06 21:33:31,CRO Rewards,CRO,1.95543351,,,USD,0.3,0.3,referral_card_cashback
+2021-03-06 21:23:07,CRO Rewards,CRO,0.98158635,,,USD,0.15,0.15,referral_card_cashback
+2021-03-06 20:55:09,Buy ENJ,ENJ,100.0,,,USD,113.56,113.56,crypto_purchase
+2021-03-06 20:16:51,CRO Rewards,CRO,3.71532368,,,USD,0.57,0.57,referral_card_cashback
+2021-03-06 19:53:12,CRO Rewards,CRO,7.83202581,,,USD,1.2,1.2,referral_card_cashback
+2021-03-06 06:02:48,CRO Rewards,CRO,2.73401426,,,USD,0.42,0.42,referral_card_cashback
+2021-03-05 19:20:06,CRO Rewards,CRO,15.8250316,,,USD,2.38,2.38,referral_card_cashback
+2021-03-05 01:08:26,Crypto Earn Deposit,BNT,-40.0,,,USD,-251.37,-251.37,crypto_earn_program_created
+2021-03-05 01:07:10,Buy BNT,BNT,40.0,,,USD,257.79,257.79,crypto_purchase
+2021-03-03 17:45:32,CRO Rewards,CRO,4.83089443,,,USD,0.76,0.76,referral_card_cashback
+2021-03-03 00:18:36,Crypto Earn,LTC,0.00060104,,,USD,0.11,0.11,crypto_earn_interest_paid
+2021-03-03 00:18:35,Crypto Earn,BTC,0.00001812,,,USD,0.87,0.87,crypto_earn_interest_paid
+2021-03-03 00:18:35,Crypto Earn,ETH,0.00032536,,,USD,0.48,0.48,crypto_earn_interest_paid
+2021-03-03 00:18:35,Crypto Earn,XLM,0.58727123,,,USD,0.24,0.24,crypto_earn_interest_paid
+2021-03-02 13:43:08,CRO Rewards,CRO,13.89376447,,,USD,2.19,2.19,referral_card_cashback
+2021-03-01 16:55:23,CRO Rewards,CRO,1.39597696,,,USD,0.21,0.21,referral_card_cashback
+2021-03-01 15:33:21,Crypto Earn Deposit,ADA,-386.0,,,USD,-480.54,-480.54,crypto_earn_program_created
+2021-03-01 15:32:21,Crypto Earn Deposit,BNB,-2.0,,,USD,-511.48,-511.48,crypto_earn_program_created
+2021-03-01 15:28:09,Buy BNB,BNB,2.0,,,USD,514.94,514.94,crypto_purchase
+2021-03-01 15:23:36,Buy ADA,ADA,386.0,,,USD,498.23,498.23,crypto_purchase
+2021-03-01 10:39:18,CRO Rewards,CRO,1.38450931,,,USD,0.2,0.2,referral_card_cashback
+2021-03-01 08:52:36,CRO Rewards,CRO,6.67842799,,,USD,0.96,0.96,referral_card_cashback
+2021-02-28 22:26:44,CRO Rewards,CRO,5.40306806,,,USD,0.74,0.74,referral_card_cashback
+2021-02-28 17:48:51,CRO Rewards,CRO,6.22253433,,,USD,0.81,0.81,referral_card_cashback
+2021-02-27 10:26:43,CRO Rewards,CRO,-0.1284522,,,USD,-0.02,-0.02,card_cashback_reverted
+2021-02-26 03:33:17,CRO Rewards,CRO,1.66770848,,,USD,0.26,0.26,referral_card_cashback
+2021-02-26 03:33:03,CRO Rewards,CRO,0.1284522,,,USD,0.02,0.02,referral_card_cashback
+2021-02-25 14:24:09,CRO Rewards,CRO,4.00120785,,,USD,0.7,0.7,referral_card_cashback
+2021-02-25 14:13:43,CRO Rewards,CRO,5.53756173,,,USD,0.98,0.98,referral_card_cashback
+2021-02-24 20:14:41,CRO Rewards,CRO,1.32631208,,,USD,0.21,0.21,referral_card_cashback
+2021-02-24 16:39:22,CRO Rewards,CRO,2.08726833,,,USD,0.34,0.34,referral_card_cashback
+2021-02-24 16:19:51,CRO Rewards,CRO,0.80106222,,,USD,0.13,0.13,referral_card_cashback
+2021-02-24 00:27:58,Crypto Earn,LTC,0.00060104,,,USD,0.1,0.1,crypto_earn_interest_paid
+2021-02-24 00:27:57,Crypto Earn,BTC,0.00001812,,,USD,0.85,0.85,crypto_earn_interest_paid
+2021-02-24 00:27:57,Crypto Earn,ETH,0.00032536,,,USD,0.48,0.48,crypto_earn_interest_paid
+2021-02-24 00:27:57,Crypto Earn,XLM,0.58727123,,,USD,0.21,0.21,crypto_earn_interest_paid
+2021-02-23 15:12:17,Convert Dust,CRO,0.727547873,,,USD,0.11,0.11,dust_conversion_credited
+2021-02-23 15:12:17,Convert Dust,TUSD,-0.11,,,USD,-0.11,-0.11,dust_conversion_debited
+2021-02-23 15:11:51,TUSD -> USD,TUSD,-999.89,,,USD,-990.51,-990.51,card_top_up
+2021-02-23 15:10:56,Buy TUSD,TUSD,1000.0,,,USD,1012.95,1012.95,crypto_purchase
+2021-02-20 18:06:44,Buy UNI,UNI,7.0,,,USD,216.35,216.35,crypto_purchase
+2021-02-19 00:13:11,USD -> LINK,USD,-100.42,LINK,3.069,USD,100.42,100.42,van_purchase
+2021-02-18 21:59:25,BNT -> USD,BNT,-17.0,USD,100.43,USD,-100.43,-100.43,crypto_to_van_sell_order
+2021-02-18 21:28:10,Buy BNT,BNT,17.0,,,USD,104.19,104.19,crypto_purchase
+2021-02-17 15:50:30,Convert Dust,CRO,0.162453793924489985,,,USD,0.02,0.02,dust_conversion_credited
+2021-02-17 15:50:30,Convert Dust,XLM,-0.0323446,,,USD,-0.02,-0.02,dust_conversion_debited
+2021-02-17 15:48:48,Crypto Earn Deposit,LTC,-1.567,,,USD,-353.14,-353.14,crypto_earn_program_created
+2021-02-17 15:48:16,Crypto Earn Deposit,BTC,-0.021,,,USD,-1066.93,-1066.93,crypto_earn_program_created
+2021-02-17 15:47:48,Crypto Earn Deposit,ETH,-0.377,,,USD,-677.25,-677.25,crypto_earn_program_created
+2021-02-17 15:46:26,Crypto Earn Deposit,XLM,-1531.1,,,USD,-745.46,-745.46,crypto_earn_program_created
+2021-02-17 15:21:50,CRO -> XLM,CRO,-2999.14567732,XLM,582.8,USD,285.58,285.58,crypto_exchange
+2021-02-17 15:21:21,DOGE -> CRO,DOGE,-1448.0,CRO,768.9486462,USD,74.8,74.8,crypto_exchange
+2021-02-17 15:21:06,ADA -> CRO,ADA,-110.0,CRO,968.75735001,USD,93.72,93.72,crypto_exchange
+2021-02-17 15:20:47,DOT -> CRO,DOT,-4.0,CRO,1261.43968111,USD,122.15,122.15,crypto_exchange
+2021-02-14 19:59:27,Buy XLM,XLM,650.0,,,USD,339.56,339.56,crypto_purchase
+2021-02-13 16:56:21,Buy DOT,DOT,4.0,,,USD,113.98,113.98,crypto_purchase
+2021-02-13 16:55:13,Buy ADA,ADA,110.0,,,USD,100.44,100.44,crypto_purchase
+2021-02-12 20:01:34,Buy DOGE,DOGE,1448.0,,,USD,100.02,100.02,crypto_purchase
+2021-02-12 19:56:28,Buy LTC,LTC,1.567,,,USD,300.01,300.01,crypto_purchase
+2021-02-12 19:55:37,Buy ETH,ETH,0.377,,,USD,698.42,698.42,crypto_purchase
+2021-02-12 19:54:27,Buy BTC,BTC,0.021,,,USD,999.5,999.5,crypto_purchase
+2021-02-12 19:51:19,XLM Deposit,XLM,298.3323446,,,USD,146.49,146.49,crypto_deposit
+2021-02-12 15:32:05,CRO Stake,CRO,-5000.0,,,USD,-428.98,-428.98,lockup_lock
+2021-02-12 15:32:02,Buy CRO,CRO,5000.0,,,USD,430.7,430.7,crypto_purchase
