@@ -19,7 +19,6 @@ export const updatePositions = async (
   const matches = await res.json();
   const tickerData = matches.map((d) => transformTicker(d, "USD"));
   const updatedPositions = transform(_transactions || transactions, tickerData);
-
   positionsStore.update((store) => {
     store.positions = [...updatedPositions];
   });

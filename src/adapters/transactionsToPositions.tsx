@@ -87,7 +87,8 @@ const transform = (
         position.symbol = matchedCrypto.id;
         position.rank = matchedCrypto.rank;
         position.price = matchedCrypto.price;
-        position.iconUrl = matchedCrypto.icon_url;
+        position.icon_url = matchedCrypto.icon_url;
+        position.sparkline = matchedCrypto.sparkline;
       }
 
       position.quantity = position.transactions.reduce(

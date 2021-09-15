@@ -7,6 +7,20 @@ import { auditTransactions } from "../utils/sentry";
 import { updatePositions } from "./positions";
 import { updateTotals } from "./totals";
 
+export const updateTransactionStores = async (
+  transformedTransactions,
+  fromStorage = false
+) => {
+  transactionStore.update((s) => {
+    // @ts-ignore
+    s.transactions = transformedTransactions;
+    s.fromStorage = fromStorage;
+  });
+
+  const positions = await updatePositions(transformedTransactions);
+  updateTotals(positions, transformedTransactions);
+};
+
 export const updateTransactions = async (
   file?: File,
   asObject?: Array<RawTransaction>
@@ -28,14 +42,16 @@ export const updateTransactions = async (
   );
 
   auditTransactions(transformedTransactions, csv);
-
-  transactionStore.update((s) => {
-    // @ts-ignore
-    s.transactions = transformedTransactions;
-  });
-
-  const positions = await updatePositions(transformedTransactions);
-  updateTotals(positions, transformedTransactions);
+  await updateTransactionStores(transformedTransactions);
 
   return true;
 };
+
+(async () => {
+  const storedTransactions = JSON.parse(
+    localStorage.getItem("ck-saved-transactions")
+  );
+  if (storedTransactions) {
+    await updateTransactionStores(storedTransactions, true);
+  }
+})();

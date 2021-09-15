@@ -93,6 +93,9 @@ const isMoneyPurchase = (input: RawTransaction) =>
     // crypto-purchase doesn't belong here
   ].includes(input["Transaction Kind"]);
 
+const isVanPurchase = (input: RawTransaction) =>
+  TransactionKind.van_purchase === input["Transaction Kind"];
+
 const getTransactionAmount = (input: RawTransaction): number => {
   if (isMoneyPurchase(input)) {
     return parseFloat(input["To Amount"]);
@@ -142,9 +145,10 @@ const transform = (input: RawTransaction): Array<CryptoTransaction> => {
 
       but it was breaking overall change.... I think
    */
-  transaction.costBasis = !isMoneyPurchase(input)
-    ? transaction.amount * transaction.pricePerUnit
-    : 0;
+  transaction.costBasis =
+    !isMoneyPurchase(input) || isVanPurchase(input)
+      ? transaction.amount * transaction.pricePerUnit
+      : 0;
 
   transaction.id = createGuid();
   transaction.crypto = getCrypto(input);

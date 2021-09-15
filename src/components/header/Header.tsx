@@ -8,6 +8,7 @@ import LanguageIcon from "@material-ui/icons/Language";
 import React from "react";
 import { updatePreferredCurrency } from "../../actions/exchangeRates";
 import tickerStore from "../../store/ticker";
+import SaveButton from "./SaveButton";
 import UploadButton from "./UploadButton";
 
 const HeaderContainer = styled.div`
@@ -108,6 +109,7 @@ const Header = () => {
     <HeaderContainer>
       <div className="buttonHolder">
         <CurrencyButton />
+        <SaveButton mobile={window.innerWidth <= 800} />
         <UploadButton mobile={window.innerWidth <= 800} />
       </div>
     </HeaderContainer>

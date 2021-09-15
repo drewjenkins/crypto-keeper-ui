@@ -101,7 +101,8 @@ export type Position = {
   gainLossPercent: number;
   portfolioPercentage: number;
   transactions: Array<CryptoTransaction>;
-  iconUrl?: string;
+  icon_url?: string;
+  sparkline: Array<number>;
 };
 
 export type Totals = {

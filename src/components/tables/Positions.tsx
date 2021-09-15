@@ -20,7 +20,9 @@ const columns = [
     field: "coin",
     headerName: "Coin",
     width: 200,
-    renderCell: (params) => <CoinCell holding={true} coin={params.value} />,
+    renderCell: (params) => {
+      return <CoinCell holding={true} coin={params.value} />;
+    },
   },
   currencyField({
     field: "price",
@@ -110,7 +112,7 @@ const PositionsTable = () => {
     interval = setInterval(() => {
       updatePositions();
     }, 10000);
-
+    updatePositions();
     return () => {
       clearInterval(interval);
     };
