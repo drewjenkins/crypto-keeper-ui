@@ -95,6 +95,12 @@ export type Position = {
   costPerShare: number;
   dayChange: number;
   dayChangePercent: number;
+  weekChange: number;
+  weekChangePercent: number;
+  monthChange: number;
+  monthChangePercent: number;
+  yearChange: number;
+  yearChangePercent: number;
   hourChange: number;
   hourChangePercent: number;
   gainLoss: number;

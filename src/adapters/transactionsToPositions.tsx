@@ -123,12 +123,28 @@ const transform = (
         position.costPerShare = position.costBasis / position.quantity;
         position.dayChangePercent = 0;
         position.dayChange = 0;
+        position.weekChangePercent = 0;
+        position.weekChange = 0;
+        position.monthChangePercent = 0;
+        position.monthChange = 0;
+        position.yearChangePercent = 0;
+        position.yearChange = 0;
         position.gainLoss = 0;
         position.gainLossPercent = 0;
       } else {
         position.costPerShare = position.costBasis / position.quantity;
         position.dayChangePercent = matchedCrypto.history_1d.priceChangePercent;
         position.dayChange = position.marketValue * position.dayChangePercent;
+        position.weekChangePercent =
+          matchedCrypto.history_7d.priceChangePercent;
+        position.weekChange = position.marketValue * position.weekChangePercent;
+        position.monthChangePercent =
+          matchedCrypto.history_30d.priceChangePercent;
+        position.monthChange =
+          position.marketValue * position.monthChangePercent;
+        position.yearChangePercent =
+          matchedCrypto.history_365d.priceChangePercent;
+        position.yearChange = position.marketValue * position.yearChangePercent;
         position.hourChangePercent =
           matchedCrypto.history_1h.priceChangePercent;
         position.hourChange = position.marketValue * position.hourChangePercent;

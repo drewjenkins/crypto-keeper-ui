@@ -6,7 +6,7 @@ import { updatePositions } from "../../actions/positions";
 import { TableNames } from "../../constants/index";
 import positionsStore from "../../store/positions";
 import { getCryptoBySymbol } from "../../store/ticker";
-import { currencyField, percentageField } from "../../utils/fields";
+import { currencyField } from "../../utils/fields";
 import { formatCurrency, formatPercentage } from "../../utils/formatting";
 import GainLoss from "../currency/GainLoss";
 import BaseChart from "./BaseChart";
@@ -27,12 +27,12 @@ const columns = [
   currencyField({
     field: "price",
     headerName: "Price",
-    width: 100,
+    width: 80,
   }),
   {
     field: "marketValue",
     headerName: "Holdings",
-    width: 100,
+    width: 120,
     renderCell: (params) => (
       <Holding
         symbol={params.row.symbol}
@@ -45,7 +45,7 @@ const columns = [
   {
     field: "costBasis",
     headerName: "Cost Basis",
-    width: 150,
+    width: 110,
     renderCell: (params) => (
       <CostBasis
         costBasis={params.row.costBasis}
@@ -57,7 +57,7 @@ const columns = [
   {
     field: "rawGainLoss",
     headerName: "Gain/Loss",
-    width: 100,
+    width: 85,
     renderCell: (params) => (
       <GainLoss
         rawGainLoss={params.row.rawGainLoss}
@@ -69,7 +69,7 @@ const columns = [
   currencyField({
     field: "hourChange",
     headerName: "One Hour",
-    width: 140,
+    width: 80,
     renderCell: (params) => (
       <GainLoss
         rawGainLoss={params.row.rawHourChange}
@@ -81,7 +81,7 @@ const columns = [
   currencyField({
     field: "dayChange",
     headerName: "Day Change",
-    width: 140,
+    width: 95,
     renderCell: (params) => (
       <GainLoss
         rawGainLoss={params.row.rawDayChange}
@@ -90,14 +90,51 @@ const columns = [
       />
     ),
   }),
-  percentageField(
-    {
-      field: "portfolioPercentage",
-      headerName: "% of Portfolio",
-      width: 120,
-    },
-    true
-  ),
+  currencyField({
+    field: "weekChange",
+    headerName: "7D Change",
+    width: 90,
+    renderCell: (params) => (
+      <GainLoss
+        rawGainLoss={params.row.rawWeekChange}
+        gainLoss={params.row.weekChange}
+        gainLossPercent={params.row.weekChangePercent}
+      />
+    ),
+  }),
+  currencyField({
+    field: "monthChange",
+    headerName: "30D Change",
+    width: 95,
+    renderCell: (params) => (
+      <GainLoss
+        rawGainLoss={params.row.rawMonthChange}
+        gainLoss={params.row.monthChange}
+        gainLossPercent={params.row.monthChangePercent}
+      />
+    ),
+  }),
+  currencyField({
+    field: "yearChange",
+    headerName: "365D Change",
+    width: 105,
+    renderCell: (params) => (
+      <GainLoss
+        rawGainLoss={params.row.rawYearChange}
+        gainLoss={params.row.yearChange}
+        gainLossPercent={params.row.yearChangePercent}
+      />
+    ),
+  }),
+
+  // percentageField(
+  //   {
+  //     field: "portfolioPercentage",
+  //     headerName: "% of Portfolio",
+  //     width: 120,
+  //   },
+  //   true
+  // ),
   {
     field: "sparkline",
     headerName: "7d Price Chart",
@@ -130,6 +167,15 @@ const PositionsTable = () => {
           costPerShare: formatCurrency(data.costPerShare),
           dayChangePercent: formatPercentage(data.dayChangePercent),
           dayChange: formatCurrency(data.dayChange),
+          rawWeekChange: data.weekChange,
+          weekChange: formatCurrency(data.weekChange),
+          weekChangePercent: formatPercentage(data.weekChangePercent),
+          rawMonthChange: data.monthChange,
+          monthChange: formatCurrency(data.monthChange),
+          monthChangePercent: formatPercentage(data.monthChangePercent),
+          rawYearChange: data.yearChange,
+          yearChange: formatCurrency(data.yearChange),
+          yearChangePercent: formatPercentage(data.yearChangePercent),
           rawDayChange: data.dayChange,
           hourChangePercent: formatPercentage(data.hourChangePercent),
           hourChange: formatCurrency(data.hourChange),
