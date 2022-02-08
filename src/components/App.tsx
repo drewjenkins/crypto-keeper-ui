@@ -14,6 +14,7 @@ import Footer from "./footer/Footer";
 import Header from "./header/Header";
 import Router from "./Router";
 import Debug from "./utils/Debug";
+import Wordle from '../components/wordle/Wordle'
 
 initSentry();
 
@@ -35,6 +36,9 @@ const AppStyle = styled.div`
 `;
 
 const App = () => {
+  if(document.location.href.includes('wordle')) return <Wordle />;
+
+
   const [init, setInit] = React.useState(false);
   React.useEffect(() => {
     updateExchangeRates();
